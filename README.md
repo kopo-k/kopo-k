@@ -11,9 +11,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kopo-k&show_icons=true&theme=radical&layout=light" width="48%" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopo-k&theme=default&layout=normal)](https://github.com/anuraghazra/github-readme-stats)
+## スキル
+---
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,github,vscode,php,aws" /> <br /><br />
+  
+## 勉強中
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kopo-k&show_icons=true&theme=radical&layout=light)
+<img src="https://skillicons.dev/icons?i=react,typescript,mysql,firebase,vscode,github" /> <br /><br />
 
 
 
