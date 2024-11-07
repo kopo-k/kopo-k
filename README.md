@@ -8,7 +8,8 @@
 
 <div style="display: flex; justify-content: space-between; gap: 20px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopo-k&theme=default&layout=normal" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kopo-k&show_icons=true&theme=radical&layout=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kopo-k&show_icons=true&theme=default&layout=default" width="48%" />
+  
 </div>
 
 ## スキル
