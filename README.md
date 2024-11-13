@@ -18,7 +18,7 @@
   
 ## 勉強中
 
-<img src="https://skillicons.dev/icons?i=react,typescript,mysql,firebase,vscode,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,typescript,mysql,firebase,vscode,github,cpp" /> <br /><br />
 
 
 
