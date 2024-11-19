@@ -14,11 +14,11 @@
 
 ## スキル
 ---
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,github,vscode,php,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,github,vscode,php,c" /> <br /><br />
   
 ## 勉強中
 
-<img src="https://skillicons.dev/icons?i=react,typescript,mysql,firebase,vscode,github,cpp" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,typescript,mysql,firebase,vscode,github,cpp,aws" /> <br /><br />
 
 
 
