@@ -14,7 +14,7 @@
 
 ## スキル
 ---
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,github,vscode,c" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,github,vscode,c" /> <br /><br />
   
 ## 勉強中
 
