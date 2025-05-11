@@ -1,5 +1,4 @@
-## こぽー 
----
+
 大学でプログラミングを学んでいます。
 
 ## スコア
@@ -17,7 +16,7 @@
   
 ## 勉強中
 
-<img src="https://skillicons.dev/icons?i=react,typescript,mysql,firebase,vscode,github,cpp,aws,rust,php" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,typescript,mysql,firebase,vscode,github,cpp,aws," /> <br /><br />
 
 
 
