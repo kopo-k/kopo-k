@@ -3,7 +3,7 @@
 
 ## SNS
 
-[![X](https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white)](https://x.com/dshdh364192)
+[![X（旧Twitter）](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dshdh364192)
 
 ## スコア
 ---
