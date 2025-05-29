@@ -3,7 +3,7 @@
 
 ## SNS
 
-**[Twitter - @dshdh364192](https://x.com/dshdh364192)** |
+**[X - @dshdh364192](https://x.com/dshdh364192)** |
 ## スコア
 ---
 
