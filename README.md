@@ -3,7 +3,7 @@
 
 ## SNS
 
-- [X（旧Twitter）@dsdhdh364192]([https://x.com/dsdhdh364192](https://x.com/dshdh364192))
+- [X（旧Twitter）@dsdhdh364192][https://x.com/dsdhdh364192]
 
 
 ## スコア
