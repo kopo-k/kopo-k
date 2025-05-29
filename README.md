@@ -1,6 +1,11 @@
 
 大学でプログラミングを学んでいます。
 
+## SNS
+
+- [X（旧Twitter）@dsdhdh364192](https://x.com/dsdhdh364192)
+
+
 ## スコア
 ---
 
