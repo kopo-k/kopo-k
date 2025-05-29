@@ -1,9 +1,6 @@
 
 大学でプログラミングを学んでいます。
 
-## SNS
-
-[![X（旧Twitter）](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dshdh364192)
 
 ## スコア
 ---
@@ -21,6 +18,11 @@
 ## 勉強中
 
 <img src="https://skillicons.dev/icons?i=react,typescript,mysql,firebase,vscode,github,cpp,aws," /> <br /><br />
+
+## SNS
+
+[![X: kopo-k](https://img.shields.io/twitter/follow/dsdhdh364192?style=social)](https://x.com/dsdhdh364192)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kopo-k/kopo-k/output/github-snake-dark.svg" />
