@@ -7,10 +7,10 @@
 
 ## スコア
 ---
-<div style="display: flex; gap: 20px;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopo-k&layout=compact&count_private=true&show_icons=true&theme=default&cache_seconds=1800" width="380" />
   <img src="https://github-readme-stats.vercel.app/api?username=kopo-k&show_icons=true&theme=default&layout=default" width="500" />
-</div>
+</p>
 
 ## スキル
 ---
