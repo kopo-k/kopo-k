@@ -7,7 +7,7 @@
 
 ## スコア
 ---
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; align-items: flex-start;">
+<div style="display: flex; justify-content: space-between; gap: 20px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopo-k&layout=compact&count_private=true&show_icons=true&theme=default&cache_seconds=1800" width="400" />
   <img src="https://github-readme-stats.vercel.app/api?username=kopo-k&show_icons=true&theme=default&layout=default" width="530" />
 </div>
