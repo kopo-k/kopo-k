@@ -12,6 +12,12 @@
   
 </div>
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopo-k&layout=compact&count_private=true&show_icons=true&theme=default&cache_seconds=1800" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kopo-k&show_icons=true&theme=default&layout=default" width="530" />
+</div>
+
 ## スキル
 ---
 <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,c" /> <br /><br />
