@@ -8,8 +8,8 @@
 ## スコア
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopo-k&layout=compact&count_private=true&show_icons=true&theme=tokyonight&cache_seconds=1800" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kopo-k&show_icons=true&theme=tokyonight&layout=default" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopo-k&layout=compact&count_private=true&show_icons=true&theme=default&cache_seconds=1800" width="34%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kopo-k&show_icons=true&theme=default&layout=default" width="45%" />
 </p>
 
 
