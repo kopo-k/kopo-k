@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello,+I+am+kopo-k;Welcome+to+my+GitHub%21&center=true&weight=600&size=30)](https://git.io/typing-svg)
-
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello,+I+am+kopo-k;Welcome+to+my+GitHub%21&center=true&weight=600&size=30)](https://git.io/typing-svg)
+</div>
 
 大学でプログラミングを学んでいます。
 
