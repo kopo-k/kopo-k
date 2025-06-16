@@ -6,7 +6,7 @@
 　
 
 ## スコア
----
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopo-k&layout=compact&count_private=true&show_icons=true&theme=default&cache_seconds=1800" width="40%" />
   <img src="https://github-readme-stats.vercel.app/api?username=kopo-k&show_icons=true&theme=default&layout=default&cache_seconds=1800" width="52%" />
@@ -16,7 +16,7 @@
 
 
 ## スキル
----
+
 <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,c" /> <br /><br />
   
 ## 勉強中
