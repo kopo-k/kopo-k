@@ -34,5 +34,5 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/kopo-k/kopo-k/output/github-snake.svg" />
 </picture>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kopo-k&theme=github)
+
 
