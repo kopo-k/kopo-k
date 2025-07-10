@@ -25,7 +25,7 @@
 
 ## SNS
 
-[![X: kopo-k](https://img.shields.io/twitter/follow/dsdhdh364192?style=social)](https://x.com/dsdhdh364192)
+[![X: kopo-k](https://img.shields.io/twitter/follow/dsdhdh364192?style=social)]([https://x.com/dsdhdh364192](https://x.com/dshdh364192))
 
 
 <picture>
