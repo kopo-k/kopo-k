@@ -25,7 +25,7 @@
 
 ## SNS
 
-[![X: @dsdhdh364192](https://img.shields.io/twitter/follow/dsdhdh364192?style=social)](https://x.com/dsdhdh364192)
+[![X: @dshdh364192](https://img.shields.io/twitter/follow/dshdh364192?style=social)](https://x.com/dshddh364192)
 
 
 
