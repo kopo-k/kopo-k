@@ -2,7 +2,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello,+I+am+kopo-k;Welcome+to+my+GitHub%21&center=true&vCenter=true&weight=600&size=30)](https://git.io/typing-svg)
 
 ---
-大学でプログラミングを学んでいます。
+大学でプログラミングを学んでいます。<br />
 ポートフォリオサイト(未完成)->https://kopo-k.github.io/my-portfolio/
 　
 
