@@ -3,6 +3,7 @@
 
 ---
 大学でプログラミングを学んでいます。
+ポートフォリオサイト(未完成)->https://kopo-k.github.io/my-portfolio/
 　
 
 ## スコア
