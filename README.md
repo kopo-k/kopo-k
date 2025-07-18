@@ -28,7 +28,7 @@
 
 [![X: @dshdh364192](https://img.shields.io/twitter/follow/dshdh364192?style=social)](https://x.com/dshdh364192)
 
-
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kopo-k/kopo-k/output/github-snake-dark.svg" />
