@@ -22,7 +22,7 @@
   
 ## 勉強中
 
-<img src="https://skillicons.dev/icons?i=react,typescript,mysql,firebase,github,cpp,aws,terraform" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,typescript,mysql,firebase,github,cpp,aws,terraform,unity" /> <br /><br />
 
 ## SNS
 
