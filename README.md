@@ -19,6 +19,8 @@
 ## スキル
 
 <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,c" /> <br /><br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopo-k)
+
   
 ## 勉強中
 
