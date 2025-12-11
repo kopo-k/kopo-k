@@ -9,8 +9,8 @@
 ## スコア
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopo-k&layout=compact&count_private=true&show_icons=true&theme=default&cache_seconds=86400" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kopo-k&show_icons=true&theme=default&layout=default&cache_seconds=86400" width="52%" />
+  <img src="https://github-readme-stats-rho-dusky-25.vercel.app/api/top-langs/?username=kopo-k&layout=compact&count_private=true&show_icons=true&theme=default&cache_seconds=86400" width="40%" />
+  <img src="https://github-readme-stats-rho-dusky-25.vercel.app/api?username=kopo-k&show_icons=true&theme=default&layout=default&cache_seconds=86400" width="52%" />
   
 
 </p>
@@ -19,7 +19,7 @@
 ## スキル
 
 <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,c" /> <br /><br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopo-k)
+![Top Langs](https://github-readme-stats-rho-dusky-25.vercel.app/api/top-langs/?username=kopo-k)
 
   
 ## 勉強中
