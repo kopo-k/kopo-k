@@ -24,7 +24,7 @@
 
 ## 勉強中
 
-<img src="https://skillicons.dev/icons?i=react,typescript,mysql,firebase,aws,terraform,unity,Flutter" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,typescript,mysql,firebase,aws,terraform,unity,flutter" /> <br /><br />
 
 ## SNS
 
