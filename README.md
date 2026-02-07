@@ -19,7 +19,7 @@
 <div style="display: flex; align-items: flex-start; gap: 16px;">
   
 <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,c" /> 
-<img src="https://skillicons.dev/icons?i=react,typescript,mysql,firebase,aws,terraform,unity,flutter" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,typescript,mysql,firebase,aws,unity,flutter" /> <br /><br />
 
 [![trophy](https://github-profile-trophy-kannan.vercel.app/?username=kopo-k&theme=flat&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
