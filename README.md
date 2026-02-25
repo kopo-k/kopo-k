@@ -6,7 +6,7 @@
 ポートフォリオサイト(未完成)->https://kopo-k.github.io/my-portfolio/
 　
 
-## スコア
+## Score
 
 <p align="center">
   <img src="https://github-readme-stats-rho-dusky-25.vercel.app/api/top-langs/?username=kopo-k&layout=compact&count_private=true&show_icons=true&theme=default&cache_seconds=86400" width="40%" />
@@ -15,7 +15,7 @@
 </p>
 
 
-## スキル
+## Skill
 <div style="display: flex; align-items: flex-start; gap: 16px;">
   
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,c" /> 
